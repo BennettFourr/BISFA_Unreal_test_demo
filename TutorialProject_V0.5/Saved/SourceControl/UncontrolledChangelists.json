@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/UserAccts/Freshmen/Desktop/TutorialProject_V0.4/Content/Cube_GeometryCollection.uasset",
+				"E:/UserAccts/Freshmen/Desktop/TutorialProject_V0.4/Content/Blueprints/Barrior.uasset",
+				"E:/UserAccts/Freshmen/Desktop/TutorialProject_V0.4/Content/Blueprints/Laser.uasset"
+			]
+		}
+	]
+}
