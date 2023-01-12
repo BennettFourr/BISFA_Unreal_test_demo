@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Other_side/Desktop/BISFA_Unreal_test_demo/TutorialProject_V0.2/Content/Maps/Level1.umap",
+				"C:/Users/Other_side/Desktop/BISFA_Unreal_test_demo/TutorialProject_V0.2/Content/Blueprints/Player_BP.uasset",
+				"E:/UserAccts/Freshmen/Desktop/TutorialProject_V0.1/Content/Maps/Level1.umap",
+				"E:/UserAccts/Freshmen/Desktop/TutorialProject_V0.1/Content/Barrior.uasset",
+				"E:/UserAccts/Freshmen/Desktop/TutorialProject_V0.1/Content/Cube_GeometryCollection.uasset",
+				"E:/UserAccts/Freshmen/Desktop/TutorialProject_V0.1/Content/Blueprints/Laser.uasset",
+				"E:/UserAccts/Freshmen/Desktop/TutorialProject_V0.1/Content/Blueprints/Player_BP.uasset",
+				"E:/UserAccts/Freshmen/Desktop/TutorialProject_V0.1/Content/Blueprints/Barrior.uasset",
+				"C:/Users/Juniors 2023/OneDrive - Washington County Public Schools/Desktop/Tutorial/TutorialProject/Content/Blueprints/Player_BP.uasset",
+				"C:/Users/Juniors 2023/OneDrive - Washington County Public Schools/Desktop/Tutorial/TutorialProject/Content/Blueprints/Tutorial_GM.uasset",
+				"C:/Users/Juniors 2023/OneDrive - Washington County Public Schools/Desktop/Tutorial/TutorialProject/Content/Maps/Level1.umap",
+				"C:/Users/Juniors 2023/OneDrive - Washington County Public Schools/Desktop/Tutorial/TutorialProject/Content/Blueprints/NewBlueprint.uasset",
+				"C:/Users/Juniors 2023/OneDrive - Washington County Public Schools/Desktop/Tutorial/TutorialProject/Content/Blueprints/Turret.uasset",
+				"C:/Users/Juniors 2023/OneDrive - Washington County Public Schools/Desktop/Tutorial/TutorialProject/Content/Blueprints/Laser.uasset"
+			]
+		}
+	]
+}
