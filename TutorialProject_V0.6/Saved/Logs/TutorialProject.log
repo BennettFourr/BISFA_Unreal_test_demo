@@ -4252,3 +4252,8 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.01.13-20.48.22:731][  8]LogFileHelpers: InternalPromptForCheckoutAndSave took 125 ms (total: 2.44 sec)
 [2023.01.13-20.48.22:738][  8]AssetCheck: New page: Asset Save: Turret
 [2023.01.13-20.48.22:738][  8]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Turret.Turret
+[2023.01.13-20.52.03:961][  8]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.01.13-20.52.04:008][  8]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Level1_Auto2
+[2023.01.13-20.52.04:008][  8]LogSavePackage: Moving 'C:/Users/Juniors 2023/OneDrive - Washington County Public Schools/Desktop/Tutorial/BISFA_Unreal_test_demo/TutorialProject_V0.6/Saved/Level1_Auto2B1BFA4DE40F0D970B3B020B815812AF8.tmp' to 'C:/Users/Juniors 2023/OneDrive - Washington County Public Schools/Desktop/Tutorial/BISFA_Unreal_test_demo/TutorialProject_V0.6/Saved/Autosaves/Game/Maps/Level1_Auto2.umap'
+[2023.01.13-20.52.04:014][  8]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level1' took 0.106
+[2023.01.13-20.52.04:014][  8]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.106
