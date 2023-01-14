@@ -6,6 +6,8 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/Other_side/Desktop/Test/BISFA_Unreal_test_demo/TutorialProject/Content/Maps/Level1.umap",
+				"C:/Program Files/Epic Games/UE_5.1/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
+				"C:/Users/Other_side/Desktop/Test/BISFA_Unreal_test_demo/TutorialProject/Content/Blueprints/Player_BP.uasset",
 				"C:/Users/Juniors 2023/OneDrive - Washington County Public Schools/Desktop/Tutorial/BISFA_Unreal_test_demo/TutorialProject_V0.6/Content/Blueprints/Turret.uasset",
 				"C:/Users/Juniors 2023/OneDrive - Washington County Public Schools/Desktop/Tutorial/BISFA_Unreal_test_demo/TutorialProject_V0.6/Content/Maps/Level1.umap",
 				"C:/Users/Juniors 2023/OneDrive - Washington County Public Schools/Desktop/Tutorial/BISFA_Unreal_test_demo/TutorialProject_V0.6/Content/Turret_Body.uasset",
