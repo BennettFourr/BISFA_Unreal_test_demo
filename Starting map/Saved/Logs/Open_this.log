@@ -1134,3 +1134,82 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2023.01.20-05.04.51:971][572]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
 [2023.01.20-05.04.52:508][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
 [2023.01.20-05.04.52:548][573]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2023.01.20-05.05.39:562][888]LogSlate: Window 'New Level' being destroyed
+[2023.01.20-05.05.39:631][888]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.01.20-05.05.39:632][888]LightingResults: New page: Lighting Build
+[2023.01.20-05.05.39:632][888]LoadErrors: New page: Loading map: Template_Default.umap
+[2023.01.20-05.05.39:634][888]LogWorld: UWorld::CleanupWorld for Default, bSessionEnded=true, bCleanupResources=true
+[2023.01.20-05.05.39:716][888]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-05.05.39:716][888]MapCheck: New page: Map Check
+[2023.01.20-05.05.39:716][888]LightingResults: New page: Lighting Build
+[2023.01.20-05.05.39:742][888]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.20-05.05.39:823][888]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.01.20-05.05.40:023][888]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2023.01.20-05.05.40:023][888]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.20-05.05.40:024][888]LogAIModule: Creating AISystem for world Untitled_1
+[2023.01.20-05.05.40:659][888]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.01.20-05.05.40:669][888]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.01.20-05.05.40:670][888]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.01.20-05.05.40:670][888]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.177ms to complete.
+[2023.01.20-05.05.40:670][888]LogFileHelpers: Loading map 'Template_Default' took 1.098
+[2023.01.20-05.05.43:196][938]LogShaderCompilers: Display: ================================================
+[2023.01.20-05.05.43:197][938]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.01.20-05.05.43:197][938]LogShaderCompilers: Display: Total job queries 96, among them cache hits 0 (0.00%)
+[2023.01.20-05.05.43:197][938]LogShaderCompilers: Display: Tracking 29 distinct input hashes that result in 21 distinct outputs (72.41%)
+[2023.01.20-05.05.43:197][938]LogShaderCompilers: Display: RAM used: 0.17 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.01%
+[2023.01.20-05.05.43:197][938]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.01.20-05.05.43:197][938]LogShaderCompilers: Display: Shaders Compiled: 29
+[2023.01.20-05.05.43:197][938]LogShaderCompilers: Display: Jobs assigned 37, completed 29 (78.38%)
+[2023.01.20-05.05.43:197][938]LogShaderCompilers: Display: Average time worker was idle: 46.25 s
+[2023.01.20-05.05.43:197][938]LogShaderCompilers: Display: Time job spent in pending queue: average 1.25 s, longest 9.83 s
+[2023.01.20-05.05.43:197][938]LogShaderCompilers: Display: Job execution time: average 5.73 s, max 13.63 s
+[2023.01.20-05.05.43:197][938]LogShaderCompilers: Display: Job life time (pending + execution): average 7.20 s, max 16.18
+[2023.01.20-05.05.43:197][938]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 35.72 s
+[2023.01.20-05.05.43:197][938]LogShaderCompilers: Display: Jobs were issued in 37 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.01.20-05.05.43:197][938]LogShaderCompilers: Display: Average processing rate: 0.81 jobs/sec
+[2023.01.20-05.05.43:197][938]LogShaderCompilers: Display: Total thread time: 97.26 s
+[2023.01.20-05.05.43:197][938]LogShaderCompilers: Display: Total thread preprocess time: 20.90 s
+[2023.01.20-05.05.43:197][938]LogShaderCompilers: Display: Percentage time preprocessing: 21.49%
+[2023.01.20-05.05.43:273][938]LogShaderCompilers: Display: Effective parallelization: 2.72 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.01.20-05.05.43:273][938]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.01.20-05.05.43:273][938]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    6 times, average 4.80 sec, max 8.71 sec, min 1.66 sec)
+[2023.01.20-05.05.43:273][938]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    6 times, average 4.11 sec, max 8.94 sec, min 1.61 sec)
+[2023.01.20-05.05.43:273][938]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    6 times, average 3.57 sec, max 9.19 sec, min 1.22 sec)
+[2023.01.20-05.05.43:273][938]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    6 times, average 3.17 sec, max 8.65 sec, min 0.81 sec)
+[2023.01.20-05.05.43:273][938]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    1 times, average 2.05 sec, max 2.05 sec, min 2.05 sec)
+[2023.01.20-05.05.43:273][938]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.01.20-05.05.43:273][938]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 29.64% of total time (compiled    6 times, average 4.80 sec, max 8.71 sec, min 1.66 sec)
+[2023.01.20-05.05.43:273][938]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 25.34% of total time (compiled    6 times, average 4.11 sec, max 8.94 sec, min 1.61 sec)
+[2023.01.20-05.05.43:273][938]LogShaderCompilers: Display:                                                 FLumenCardVS - 22.03% of total time (compiled    6 times, average 3.57 sec, max 9.19 sec, min 1.22 sec)
+[2023.01.20-05.05.43:273][938]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 19.54% of total time (compiled    6 times, average 3.17 sec, max 8.65 sec, min 0.81 sec)
+[2023.01.20-05.05.43:273][938]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap - 2.10% of total time (compiled    1 times, average 2.05 sec, max 2.05 sec, min 2.05 sec)
+[2023.01.20-05.05.43:273][938]LogShaderCompilers: Display: ================================================
+[2023.01.20-05.05.46:271][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.01.20-05.07.11:773][343]LogSlate: Window 'Message' being destroyed
+[2023.01.20-05.07.11:779][343]Message dialog closed, result: Yes, title: Message, text: Default already exists. Do you want to replace it?
+[2023.01.20-05.07.11:779][343]LogSlate: Window 'Save Level As' being destroyed
+[2023.01.20-05.07.11:933][343]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Default" FILE="C:/Users/clord/OneDrive/Desktop/Tutorial/game/Starting map/Content/Default.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.01.20-05.07.11:942][343]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2023.01.20-05.07.11:976][343]LogSavePackage: Moving output files for package: /Game/Default
+[2023.01.20-05.07.11:976][343]LogSavePackage: Moving 'C:/Users/clord/OneDrive/Desktop/Tutorial/game/Starting map/Saved/Default98C314624E78FF175308A1BBD9FA497A.tmp' to 'C:/Users/clord/OneDrive/Desktop/Tutorial/game/Starting map/Content/Default.umap'
+[2023.01.20-05.07.12:017][343]LogFileHelpers: Saving map 'Default' took 0.128
+[2023.01.20-05.07.12:017][343]Cmd: MAP LOAD FILE="C:/Users/clord/OneDrive/Desktop/Tutorial/game/Starting map/Content/Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.01.20-05.07.12:017][343]LightingResults: New page: Lighting Build
+[2023.01.20-05.07.12:017][343]LoadErrors: New page: Loading map: Default.umap
+[2023.01.20-05.07.12:018][343]LogWorld: UWorld::CleanupWorld for Default, bSessionEnded=true, bCleanupResources=true
+[2023.01.20-05.07.12:018][343]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-05.07.12:019][343]MapCheck: New page: Map Check
+[2023.01.20-05.07.12:019][343]LightingResults: New page: Lighting Build
+[2023.01.20-05.07.12:026][343]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.20-05.07.12:072][343]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.01.20-05.07.12:075][343]LogAudio: Display: Audio Device (ID: 1) registered with world 'Default'.
+[2023.01.20-05.07.12:075][343]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.20-05.07.12:075][343]LogAIModule: Creating AISystem for world Default
+[2023.01.20-05.07.12:086][343]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.01.20-05.07.12:095][343]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.01.20-05.07.12:103][343]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.01.20-05.07.12:103][343]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.134ms to complete.
+[2023.01.20-05.07.12:103][343]LogFileHelpers: Loading map 'Default' took 0.087
+[2023.01.20-05.07.12:107][343]AssetCheck: New page: Asset Save: Default
+[2023.01.20-05.07.12:107][343]LogContentValidation: Display: Validating /Script/Engine.World /Game/Default.Default
+[2023.01.20-05.07.17:042][612]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
